@@ -1,0 +1,10 @@
+E:\Suvarna_Imp\Student_Mgt_Sys\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+E:\Suvarna_Imp\Student_Mgt_Sys\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+E:\Suvarna_Imp\Student_Mgt_Sys\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\Suvarna_Imp\Student_Mgt_Sys\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+E:\Suvarna_Imp\Student_Mgt_Sys\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Suvarna_Imp\Student_Mgt_Sys\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+E:\Suvarna_Imp\Student_Mgt_Sys\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+E:\Suvarna_Imp\Student_Mgt_Sys\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+E:\Suvarna_Imp\Student_Mgt_Sys\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+E:\Suvarna_Imp\Student_Mgt_Sys\Domain\obj\Debug\netcoreapp3.1\Domain.pdb

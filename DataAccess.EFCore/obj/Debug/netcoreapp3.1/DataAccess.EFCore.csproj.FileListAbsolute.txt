@@ -1,0 +1,12 @@
+E:\Suvarna_Imp\Student_Mgt_Sys\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.deps.json
+E:\Suvarna_Imp\Student_Mgt_Sys\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.dll
+E:\Suvarna_Imp\Student_Mgt_Sys\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.pdb
+E:\Suvarna_Imp\Student_Mgt_Sys\DataAccess.EFCore\bin\Debug\netcoreapp3.1\Domain.dll
+E:\Suvarna_Imp\Student_Mgt_Sys\DataAccess.EFCore\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\Suvarna_Imp\Student_Mgt_Sys\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csproj.AssemblyReference.cache
+E:\Suvarna_Imp\Student_Mgt_Sys\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+E:\Suvarna_Imp\Student_Mgt_Sys\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.AssemblyInfoInputs.cache
+E:\Suvarna_Imp\Student_Mgt_Sys\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.AssemblyInfo.cs
+E:\Suvarna_Imp\Student_Mgt_Sys\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csproj.CoreCompileInputs.cache
+E:\Suvarna_Imp\Student_Mgt_Sys\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.dll
+E:\Suvarna_Imp\Student_Mgt_Sys\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.pdb
